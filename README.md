@@ -1,0 +1,10 @@
+这事coursera中实现的所有的机器学习算法，包括supervised learning和unsupevised learning。算法中的一部分代码来自于吴恩达课程中已经存在的代码，我进行的工作主要是从一定程度上理解算法，并且根据算法对代码进行补全
+
+使用到的机器学习算法
+logistic regression 
+neural network 
+support vetor machine
+
+Cluster
+这其中包括一些非常具体的项目实现，包括使用logistic regression和neural network对手写体的数字图像进行分类
+包括对图片的像素进行cluster，然后使得图像占用的存储空间变小
